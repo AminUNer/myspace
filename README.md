@@ -1,2 +1,2 @@
-# myspace
-Amin Abdelhedi | CV | Ingénieur Développeur Web | Tunisie
+# My Curriculum Vitæ
+Amin Abdelhedi | Curriculum Vitæ | Ingénieur Développeur Web | Tunisie
